@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Nanjing Forestry University
 - 🌱 I’m currently learning Computer Science and Technology
 - 👯 I’m looking to collaborate on Deep Learning etc.
 <!--
